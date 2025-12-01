@@ -9,26 +9,19 @@ I focus on building clean, responsive, and efficient web applications with a sol
 I enjoy learning new concepts, improving my coding skills, and creating user-friendly solutions.
 
 🧠 Tech Stack
-Languages & Web
 
-HTML
-
-CSS
-
-JavaScript
-
-Python
-
-Database
-
+Languages & Web,
+HTML,
+CSS,
+JavaScript,
+Python,
+Database,
 SQL
 
 Tools
 
-Git
-
-GitHub
-
+Git,
+GitHub,
 VS Code
 
 📚 Certifications
