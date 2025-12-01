@@ -1,16 +1,60 @@
-## Hi there 👋
+🌟 Hi there, I'm Naveen Kumar Vanama! 👋
 
-<!--
-**Naveen-vanama/Naveen-vanama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Python Full Stack Developer
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated Python Full Stack Developer with strong skills in HTML, CSS, JavaScript, SQL, and Python.
+I focus on building clean, responsive, and efficient web applications with a solid understanding of both frontend and backend development.
+I enjoy learning new concepts, improving my coding skills, and creating user-friendly solutions.
+
+🧠 Tech Stack
+Languages & Web
+
+HTML
+
+CSS
+
+JavaScript
+
+Python
+
+Database
+
+SQL
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
+
+📚 Certifications
+
+NPTEL – The Joy of Computing Using Python
+
+Google AI & Machine Learning Workshop (2024)
+
+💡 Soft Skills
+
+Problem Solving
+
+Team Collaboration
+
+Adaptability
+
+Time Management
+
+📬 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/naveen-kumar-vanama
+
+Email: vanamanaveenchinna@gmail.com
+
+GitHub: https://github.com/Naveen-vanama
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to ⭐ star my repositories!
