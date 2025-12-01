@@ -32,12 +32,9 @@ Google AI & Machine Learning Workshop (2024)
 
 💡 Soft Skills
 
-Problem Solving
-
-Team Collaboration
-
-Adaptability
-
+Problem Solving,
+Team Collaboration,
+Adaptability,
 Time Management
 
 📬 Connect With Me
