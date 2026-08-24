@@ -1,41 +1,95 @@
-🌟 Hi there, I'm Naveen Kumar Vanama! 👋
+👋 Hi,I'm Naveen Kumar Vanama
 
-🧑‍💻 Python Full Stack Developer
+🐍 Python Full-Stack Developer
+
+I am a passionate Python Full-Stack Developer and MCA graduate with hands-on experience in building web applications using Python, Django, Django REST Framework, REST APIs, MySQL, JavaScript, and React.js.
+
+I enjoy developing clean, scalable, and user-friendly applications and continuously improving my problem-solving and software development skills.
 
 🚀 About Me
 
-I am a dedicated Python Full Stack Developer with strong skills in HTML, CSS, JavaScript, SQL, and Python.
-I focus on building clean, responsive, and efficient web applications with a solid understanding of both frontend and backend development.
-I enjoy learning new concepts, improving my coding skills, and creating user-friendly solutions.
+.🎓 MCA Graduate
+.🐍 Python & Django Developer
+.🌐 Full-Stack Web Development
+.🔗 REST API Development
+.🗄️ MySQL & Django ORM
+.⚛️ JavaScript & React.js
+.🔐 Authentication, Authorization & RBAC
+.🔧 Git & GitHub
+.💡 Quick Learner & Adaptable
+.🎯 Looking for Python/Django Developer opportunities
 
-🧠 Tech Stack
+🛠️ Tech Stack
+Languages
 
-Languages & Web,
-HTML,
-CSS,
-JavaScript,
-Python,
-Database,
-SQL
+Python • JavaScript (ES6+) • SQL
 
-Tools
+Backend
 
-Git,
-GitHub,
-VS Code
+Django • Django REST Framework • REST APIs • Flask
+
+Frontend
+
+HTML5 • CSS3 • JavaScript • React.js
+
+Database:
+
+MySQL • SQL • Django ORM
+
+Authentication & Security
+
+JWT Authentication • Session Authentication • RBAC • CSRF Protection
+
+Tools:
+
+Git • GitHub • VS Code
+
+📌 Featured Projects
+🎓 Learning Management System (LMS)
+
+A full-stack Learning Management System developed using Python, Django, MySQL, HTML, CSS, and JavaScript.
+
+Key Features:
+
+•Role-based Admin, Instructor and Student dashboards
+•Course and batch management
+•Student enrollment
+•Attendance management
+•Learning resources
+•Progress tracking
+•Quizzes
+•Certificate generation
+•Analytics dashboards
+•Authentication and authorization
+
+🔗 GitHub:
+https://github.com/Naveen-vanama/LMS-PORTAL
+
+🤖 AI-Powered Recruitment System
+
+A full-stack recruitment platform designed to automate candidate screening and evaluation.
+
+Technologies:
+Python • MySQL • React.js • JavaScript • HTML • CSS • Gemini LLM
+
+Key Features:
+
+•Resume parsing
+•Resume analysis using AI
+•Candidate ranking
+•Automated interview feedback
+•Candidate data processing
+•REST API integration
+•Responsive React frontend
 
 📚 Certifications
 
-NPTEL – The Joy of Computing Using Python
-
-Google AI & Machine Learning Workshop (2024)
+•NPTEL – The Joy of Computing Using Python
+•Google AI & Machine Learning Workshop – 2024
 
 💡 Soft Skills
 
-Problem Solving,
-Team Collaboration,
-Adaptability,
-Time Management
+Problem Solving • Analytical Thinking • Team Collaboration • Adaptability • Quick Learning
 
 📬 Connect With Me
 
@@ -47,4 +101,4 @@ GitHub: https://github.com/Naveen-vanama
 
 ⭐ Thanks for visiting my profile!
 
-If you like my work, feel free to ⭐ star my repositories!
+🚀 Build • Learn • Improve • Repeat
